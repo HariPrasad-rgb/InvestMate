@@ -2,7 +2,7 @@
 Investment Calculator : This is a React and Vite-based Investment Calculator web application.
 This repository contains a React and Vite-based Investment Calculator web application. The app allows users to calculate the growth of their investments over time by entering details such as:
 
-#Initial Investment:
+Initial Investment:
 The starting amount to be invested.
 
 
@@ -14,7 +14,7 @@ Expected Return: The annual percentage return expected from the investment.
 
 Duration: The number of years the investment will grow.
 
-#The app provides a table displaying:
+The app provides a table displaying:
 Investment value per year.
 
 
