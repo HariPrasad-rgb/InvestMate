@@ -1,4 +1,7 @@
 # InvestMate
+## Live Demo
+Check out the live version of the app here: [InvestMate](https://investapplication.netlify.app/)
+
 Investment Calculator : This is a React and Vite-based Investment Calculator web application.
 This repository contains a React and Vite-based Investment Calculator web application. The app allows users to calculate the growth of their investments over time by entering details such as:
 
