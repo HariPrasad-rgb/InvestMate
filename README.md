@@ -6,12 +6,13 @@ Initial Investment: The starting amount to be invested.
 Annual Investment: The amount added each year to the investment.
 Expected Return: The annual percentage return expected from the investment.
 Duration: The number of years the investment will grow.
-The app provides a table displaying:
 
+The app provides a table displaying:
 Investment value per year.
 Annual interest earned.
 Total interest accrued over time.
 Total invested capital.
+
 Features:
 Responsive Design: Works seamlessly across devices.
 Dynamic Calculations: Automatically updates results based on user inputs.
